@@ -62,6 +62,9 @@ There following are all of the published standards at the time of writing (Nov 2
  * GM/T 0044-2016 SM9 Identification Cryptographic Algorithm
  * GM/T 0044-2016 Financial Data Cipher Machine Technical Specifications
 
+# GBT 
+  * GB/T 42752 blockchain
+
 ## Drafts
 
  * Interface Specifications for Single Sign-on
@@ -86,4 +89,5 @@ There following are all of the published standards at the time of writing (Nov 2
  * Sign And Verify Server Test Specification
  * Financial IC card Key Management System technology Specification
  * Specifications of Financial Cryptographic Server
+ * Blockchain
 
