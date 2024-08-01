@@ -61,6 +61,7 @@ There following are all of the published standards at the time of writing (Nov 2
  * GM/T 0043-2015 Test Specification for Digitial Certificate Interoperability
  * GM/T 0044-2016 SM9 Identification Cryptographic Algorithm
  * GM/T 0044-2016 Financial Data Cipher Machine Technical Specifications
+ * GM/T GMT 0111-2021 区块链密码应用技术要求
 
 # GBT 
   * GB/T 42752 blockchain
